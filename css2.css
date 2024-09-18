@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.h2{
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+#nave{
+  border: 1px solid black;
+  margin-right: 100px;
+  margin-left: 20px;
+  width: 394px;
+  height: 300px;
+}   
+#nave h2{
+    background-color: #70C3FF;
+    border-bottom: 1px solid black;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58.51px;
+    text-align: center;
+
+}
+.ul{
+    margin: auto;
+    text-align: center;
+}
